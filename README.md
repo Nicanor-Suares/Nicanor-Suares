@@ -47,7 +47,7 @@ My technical skills include PHP, JavaScript, Vue.js, HTML, Bootstrap, among othe
 🎓 My studies include courses from the University of Alicante and the Complutense University of Madrid through Google Actívate, as well as the upcoming completion of the Tecnicatura Universitaria de Desarrollo de Software from the University of La Punta.
 
 
-👋 I want to keep growing as a developer, using my experience and passion to deliver exceptional results in every project I participate in. I'm open to new opportunities and collaborations, so feel free to contact me if you think we can work together on a new project.
+👋 I want to keep growing as a developer, using my experience and passion to deliver exceptional results in every project I participate in.
 
 <!--
 **Nicanor-Suares/Nicanor-Suares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
